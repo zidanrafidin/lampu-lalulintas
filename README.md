@@ -1,6 +1,1 @@
-# lampu-lalulintas
-# lampu-lalulintas
-# lampu-lalulintas
-# lampu-lalulintas
-# lampu-lalulintas
-# lampu-lalulintas
+versi 2
